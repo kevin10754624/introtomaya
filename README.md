@@ -1,7 +1,8 @@
-# intro to maya
-intro to maya
+# Intro to Maya
+Intro to Maya
 
-hello MR. Romrell
+Hello MR. Romrell
 
-this is my assingment for intro to maya, i did a project based on the videos and based on what i learned.
-my computer isnt working anymore 
+This is my assingment for intro to maya, I did a project based on the videos and based on what i learned.
+I've watched all the of 11 videos in Pluralsight, one by one undestarnding and trying it myself in MAYA
+
